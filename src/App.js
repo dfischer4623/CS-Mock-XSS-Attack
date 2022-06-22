@@ -29,7 +29,6 @@ const handleSubmit = e => {
         text:"",
         image:""
       });
-      // Launch first attack here
     }
   }
 
